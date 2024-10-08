@@ -34,3 +34,9 @@ Websites included in this repository are identified through the following method
 ## What is the FPO "forprivacy.online"?
 
 FPO believes in a free and secure Internet for all. We offer personalized advice and free tools to protect your privacy and that of your company. We help you take control of your information. Join our community and let's build a safer Internet future together.
+
+<br>
+
+## License
+
+[GLP v3 License](https://www.gnu.org/licenses/gpl-3.0.html)
