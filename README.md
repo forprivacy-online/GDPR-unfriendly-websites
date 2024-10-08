@@ -1,4 +1,4 @@
-# 🚫🌍 Privacy Unfriendly Websites
+# 🛈 FPO "forprivacy.online" - Open Data
 
 [![US](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "Canada") English](/readme/en.md) -
 [![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Español](/readme/es.md) -
