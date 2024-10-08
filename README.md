@@ -14,6 +14,13 @@ This repository serves as a resource to document websites that may not be fully 
 
 <br>
 
+| Country/Zone | Regulation | Data |
+|--------------|------------|------|
+| ![European Union](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/europeanunion.png "European Union") European Union | General Data Protection Regulation (GDPR) | ⌛ Pending update |
+| ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Spain | Organic Law on Data Protection and Guarantee of Digital Rights (LOPDGDD) | ⌛ Pending update |
+
+<br>
+
 ## How are sites identified?
 
 Websites included in this repository are identified through the following methods:
