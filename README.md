@@ -10,7 +10,7 @@
 
 ## What is this repository?
 
-This repository serves as a resource to document websites that may not be fully compliant with the General Data Protection Regulation (GDPR). Our goal is to raise awareness of online privacy rights and to encourage compliance with GDPR regulations.
+This repository serves as a tool to document and expose websites that do not comply with the privacy regulations. The goal is to raise awareness about the importance of online privacy and encourage compliance.
 
 <br>
 
@@ -25,9 +25,9 @@ This repository serves as a resource to document websites that may not be fully 
 
 Websites included in this repository are identified through the following methods:
 
-* **Privacy policy analysis:** We review website privacy policies to identify potential GDPR violations.
+* **Privacy policy analysis:** We review website privacy policies to identify potential violations.
 * **User reports:** We accept contributions from the community who have identified potential non-compliance.
-* **Scanning tools:** We use automated tools to detect common practices that violate the GDPR (e.g., use of cookies without consent, excessive data collection).
+* **Scanning tools:** We use automated tools to detect common practices that violate the regulations (e.g., use of cookies without consent, excessive data collection).
 
 <br>
 
